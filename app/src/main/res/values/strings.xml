@@ -1,3 +1,15 @@
 <resources>
     <string name="app_name">TextCounter</string>
+    <string name="input_hint">Įveskite tekstą</string>
+    <string name="calculate_button">Skaičiuoti</string>
+    <string name="result_placeholder">Čia bus rezultatas</string>
+    <string name="empty_text_message">Pirmiausia įveskite tekstą</string>
+    <string name="word_count_result">Žodžių skaičius: %1$d</string>
+    <string name="character_count_result">Ženklų skaičius: %1$d</string>
+    <string name="count_type_label">Skaičiavimo tipas</string>
+
+    <string-array name="count_types">
+        <item>Žodžiai</item>
+        <item>Ženklai</item>
+    </string-array>
 </resources>
